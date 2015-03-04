@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC401: Ethics and Public Policy"
+course_description: "An examination of the role that ethical, cultural, religious, and moral principles play in the formulation and execution of public policy by lawmakers and other public officials. Explores existing issues in domestic and international policy, including justice, equality, fairness, individual liberty, free enterprise, charity, and human rights."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Ethical Dilemmas in Governance: Foreign Relations, Foreign
 Trade, Foreign Aid, and Military Intervention** <span id="8"></span> 
 *In this unit, you will examine ethical issues that arise in foreign

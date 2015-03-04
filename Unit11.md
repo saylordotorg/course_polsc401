@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC401: Ethics and Public Policy"
+course_description: "An examination of the role that ethical, cultural, religious, and moral principles play in the formulation and execution of public policy by lawmakers and other public officials. Explores existing issues in domestic and international policy, including justice, equality, fairness, individual liberty, free enterprise, charity, and human rights."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation's POLSC401 Final Exam**
     Link: The Saylor Foundation's [POLSC401 Final
